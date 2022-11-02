@@ -1,0 +1,1 @@
+- [tips on how you can implement guardrails to limit cost and monitor consumption ](https://cloud.google.com/blog/topics/developers-practitioners/controlling-your-bigquery-costs?utm_source=twitter&utm_medium=unpaidsoc&utm_campaign=fy22q3-googlecloud_sg-blog-roi_cost_savings-in_feed-no-brand-regional-apac&utm_content=bigquery-cost-management&utm_term=-&linkId=8207091)

@@ -1,0 +1,8 @@
+- 2. The usefulness of any piece of analysis depends on the communication between the person 𝘥𝘰𝘪𝘯𝘨 the analysis, and the person doing something 𝘸𝘪𝘵𝘩 the analysis.
+- 3. Current data tools are chart-making machines, optimised to let data analysts build charts and queries and then publish those charts as “read-only” assets to be consumed somewhere else.
+- https://blog.count.co/bye-bye-notebooks-hello-canvas/
+- 1. Modern data stack has been a game changer. However it has a last mile problem
+- Count.co covices a better way to create and share insights around the business and level up this “last mile” of analytics
+- Their canvas is a digital whiteboard (think Miro) combines the best with the power and flexibility of a SQL IDE and data viz tool.
+- Currently, the one that comes close to it is Jupyter Notebook.
+-

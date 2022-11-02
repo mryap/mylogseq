@@ -1,0 +1,7 @@
+- Numbering Function in BigQuery
+- Using [[pipe operator]] in sql
+- CASE statement
+-
+- {{tweet https://twitter.com/SqlSnippets/status/1433096917446189058?t=6c-cCTnafXT5jbmsFm_Oqg&s=09}}
+- {{tweet https://twitter.com/thatjuanpablo/status/1584576099232907266?t=mOIL_wL1QyA7v2UfADqsCQ&s=09}}
+-

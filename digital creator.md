@@ -1,0 +1,2 @@
+- It a paid endeavor or an undertaking that the creator expect to monetize it
+- younger group of user?
